@@ -179,9 +179,9 @@
             this.CajaTiempo.AutoSize = true;
             this.CajaTiempo.Location = new System.Drawing.Point(796, 80);
             this.CajaTiempo.Name = "CajaTiempo";
-            this.CajaTiempo.Size = new System.Drawing.Size(44, 16);
+            this.CajaTiempo.Size = new System.Drawing.Size(121, 16);
             this.CajaTiempo.TabIndex = 2;
-            this.CajaTiempo.Text = "label1";
+            this.CajaTiempo.Text = "caja para las vidas";
             // 
             // DiseñoMapa
             // 
