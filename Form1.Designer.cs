@@ -158,11 +158,11 @@
             // LabelOperacion
             // 
             this.LabelOperacion.AutoSize = true;
-            this.LabelOperacion.Location = new System.Drawing.Point(579, 80);
+            this.LabelOperacion.Location = new System.Drawing.Point(539, 80);
             this.LabelOperacion.Name = "LabelOperacion";
-            this.LabelOperacion.Size = new System.Drawing.Size(44, 16);
+            this.LabelOperacion.Size = new System.Drawing.Size(166, 16);
             this.LabelOperacion.TabIndex = 0;
-            this.LabelOperacion.Text = "label1";
+            this.LabelOperacion.Text = "Caja para las operaciones";
             this.LabelOperacion.Click += new System.EventHandler(this.CajaOperaciones_Click);
             // 
             // CajaPuntos
