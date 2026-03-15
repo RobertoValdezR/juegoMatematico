@@ -158,11 +158,11 @@
             // LabelOperacion
             // 
             this.LabelOperacion.AutoSize = true;
-            this.LabelOperacion.Location = new System.Drawing.Point(579, 80);
+            this.LabelOperacion.Location = new System.Drawing.Point(539, 80);
             this.LabelOperacion.Name = "LabelOperacion";
-            this.LabelOperacion.Size = new System.Drawing.Size(44, 16);
+            this.LabelOperacion.Size = new System.Drawing.Size(166, 16);
             this.LabelOperacion.TabIndex = 0;
-            this.LabelOperacion.Text = "label1";
+            this.LabelOperacion.Text = "Caja para las operaciones";
             this.LabelOperacion.Click += new System.EventHandler(this.CajaOperaciones_Click);
             // 
             // CajaPuntos
@@ -179,9 +179,9 @@
             this.CajaTiempo.AutoSize = true;
             this.CajaTiempo.Location = new System.Drawing.Point(796, 80);
             this.CajaTiempo.Name = "CajaTiempo";
-            this.CajaTiempo.Size = new System.Drawing.Size(44, 16);
+            this.CajaTiempo.Size = new System.Drawing.Size(121, 16);
             this.CajaTiempo.TabIndex = 2;
-            this.CajaTiempo.Text = "label1";
+            this.CajaTiempo.Text = "caja para las vidas";
             // 
             // DiseñoMapa
             // 
